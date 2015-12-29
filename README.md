@@ -1,4 +1,4 @@
 # drivr
 A driving assistant
 
-Wiki page: https://github.com/mayukh42/drivr
+Wiki page: https://github.com/mayukh42/drivr/wiki
